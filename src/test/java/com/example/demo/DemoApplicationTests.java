@@ -1,10 +1,10 @@
-package com.bezkoder.spring.datajpa;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootDataJpaApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
